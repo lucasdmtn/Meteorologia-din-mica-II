@@ -1,5 +1,5 @@
 # Meteorologia dinamica II
 
-#### Eq. de Difusão p/ 500 timesteps
+#### Eq. de Difusão
 
 ![](./solucao.gif)
